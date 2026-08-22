@@ -9,6 +9,6 @@ This is a second stage of RF amplifier where the first stage is PA with the TQP7
 - Connect the PA RF-in to TQP7M9106-PA RF output, run Tetra BS and monitor the RF signal (easy way with sdr-receiver and sdr++ with tetra demodulator, follow the signal quality and constellation)...
 - ... if needs any corrections first try with BIAS voltage adj. and if needs more adjustments then add the attenuator to low the dB input and again with BIAS adj.
 
-- This PA is not tested yet but you can try to build and test it, if works then will be usable for radio-amateur community and specially for Tetra.
+- This PA is OPEN PROJECT and is not tested yet but you can try to build and test it, if works then will be usable for radio-amateur community and specially for Tetra.
 
 - Z32IT
