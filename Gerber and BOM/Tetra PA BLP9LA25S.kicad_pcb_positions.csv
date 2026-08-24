@@ -19,6 +19,7 @@
 125.0,-66.7613,-90.0,top,C9,,,CAP_1111_HIQ_KNO,120p,smt
 154.5,-64.0,-90.0,top,D1,,,LED_0805_2012Metric,Red,smt
 159.642928,-69.736088,180.0,top,F1,,,Fuse_1206_3216Metric,5A fast,smt
+168.5,-55.0,0.0,top,GND,,,TestPoint_Pad_3.0x3.0mm,TestPoint_Pad_3.0x3.0mm,tht
 119.741489,-105.181891,0.0,top,H1,,,MountingHole_2.7mm_M2.5_Pad_Via,M2.5,tht
 119.725,-63.25,0.0,top,H2,,,MountingHole_2.7mm_M2.5_Pad_Via,M2.5,tht
 168.5,-63.275,0.0,top,H3,,,MountingHole_2.7mm_M2.5_Pad_Via,M2.5,tht
