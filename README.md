@@ -1,6 +1,7 @@
 # 25W-PA-for-Tetra
 This is a second stage of RF amplifier where the first stage is PA with the TQP7M9106.
 - PA Operational freq. 380MHz - 460MHz
+- Tetra up to 10W.
 
 - To run the PA properly the RF input must be up to 18~19dB, if the rf power is above that value then you need attenuator after TQP7M9106-PA RF output and this PA RF input.
 - The RF in/out capacitors must be with tolerance up to 0.5% max. You can find the values for each one in the BOM file.
