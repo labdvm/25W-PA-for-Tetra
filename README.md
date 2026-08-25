@@ -9,6 +9,10 @@ This is a second stage of RF amplifier where the first stage is PA with the TQP7
 - Testing the PA, the RF-in not connected, connect proper dummy load on RF-out, Power supply 12V~13.6V/5A, adjust the BIAS voltage to 1.8V.
 - Connect the PA RF-in to TQP7M9106-PA RF output, run Tetra BS and monitor the RF signal (easy way with sdr-receiver and sdr++ with tetra demodulator, follow the signal quality and constellation)...
 - ... if needs any corrections first try with BIAS voltage adj. and if needs more adjustments then add the attenuator to low the dB input and again with BIAS adj.
+- The inductors (Air Core Wirewound):
+  L1 6.9nH (Wire diameter 0.35mm, 1mm core diameter, 3 Turns)
+  L2-L3 22-23nH (Wire diameter 0.5mm, 1mm core diameter, 6 Turns)
+  L4-L5 0.4nH (Wire diameter 1mm, 1.44mm core diameter, 1 Turn-U shape)
 
 - This PA is OPEN PROJECT and is not tested yet but you can try to build and test it, if works then will be usable for radio-amateur community and specially for Tetra.
 
