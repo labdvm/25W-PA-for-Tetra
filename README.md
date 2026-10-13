@@ -9,6 +9,7 @@ This is a second stage of RF amplifier where the first stage is PA with the TQP7
 - ... insert thermal paste between under bottom PCB transistor place and heatsink to take the heating properly.
 - The schematic is taken from AMPLEON-BLP9LA25S datasheet, the PCB is identical from the datasheet with added BIAS power supply with voltage adjustment and current limiting.
 - Testing the PA, the RF-in not connected, connect proper dummy load on RF-out, Power supply 12V~13.6V/5A, adjust the BIAS voltage to 1.8V.
+- In case if you have some issue with the BIAS stability remove the R4 resistor !
 - Connect the PA RF-in to TQP7M9106-PA RF output, run Tetra BS and monitor the RF signal (easy way with sdr-receiver and sdr++ with tetra demodulator, follow the signal quality and constellation)...
 - ... if needs any corrections first try with BIAS voltage adj. and if needs more adjustments then add the attenuator to low the dB input and again with BIAS adj.
 - The inductors (Air Core Wirewound):
