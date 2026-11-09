@@ -26,7 +26,7 @@
 75.5,-63.275,0.0,top,H4,,,MountingHole_2.7mm_M2.5_Pad_Via,M2.5,tht
 75.5,-105.25,0.0,top,H5,,,MountingHole_2.7mm_M2.5_Pad_Via,M2.5,tht
 168.5,-105.25,0.0,top,H6,,,MountingHole_2.7mm_M2.5_Pad_Via,M2.5,tht
-75.25,-95.0,-90.0,top,L1,,,C_0504_1310Metric_Pad0.83x1.28mm_HandSolder,6.9nH,smt
+75.25,-95.0,-90.0,top,L1,,,L_0805_2012Metric,6.9nH,smt
 127.0,-70.5,0.0,top,L2,,,L_1008_2520Metric,23nH,smt
 132.5,-73.75,0.0,top,L3,,,L_1008_2520Metric,22nH,smt
 146.0,-92.0,-90.0,top,L4,,,L_1008_2520Metric,0.4nH,smt
