@@ -16,6 +16,9 @@ This is a second stage of RF amplifier where the first stage is PA with the TQP7
   L1 6.9nH (Wire diameter 0.35mm, 1mm core diameter, 3 Turns)
   L2-L3 22-23nH (Wire diameter 0.5mm, 1mm core diameter, 6 Turns)
   L4-L5 0.4nH (Wire diameter 1mm, 1.44mm core diameter, 1 Turn-U shape)
+  - For 430-440MHz:
+  L1=6.8nH (0805, Wire-Wound non-magnetic)
+  C9=100pF, C15=1.6pF
 
 - This PA is OPEN PROJECT and is not tested yet but you can try to build and test it, if works then will be usable for radio-amateur community and specially for Tetra.
 
